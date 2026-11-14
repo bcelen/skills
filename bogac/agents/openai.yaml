@@ -1,0 +1,4 @@
+interface:
+  display_name: "Boğaç's Voice"
+  short_description: "Write and edit in Boğaç Çelen's voice"
+  default_prompt: "Use $bogac to draft or edit this text in Boğaç's voice."
